@@ -1,0 +1,14 @@
+.ContactData{
+    margin:auto;
+    width:80%;
+    text-align: center;
+    background-color:#232b2b ;
+    padding-bottom: 40px;
+    border: 2px solid rgb(218, 197, 197);
+    
+}
+
+.Input{
+    margin-left: 40%;
+    display: block;
+}
